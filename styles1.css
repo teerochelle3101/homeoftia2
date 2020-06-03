@@ -1,0 +1,201 @@
+body {
+        background-color: white;
+}
+.bg-tia{
+        background-color: rgb(223, 119, 183);
+}
+
+h1 {
+        color: white;
+        background-color: rgb(185, 133, 192);
+        text-align:center;
+        font-size: 50px;
+        background-color: pink;
+        height: 200px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-block-start: 0.8cm;
+}
+    
+h2 {color: white;
+        text-align: center;
+    
+}
+
+.images-container {
+        display: flex;
+}
+    .image1 {
+        display: inline-block;
+        padding: 10px;
+        border-radius: 50%;
+        height: 300px;
+        width: 250px;
+        align-items: center;
+        justify-content: center;
+       }
+
+      .image2 {
+        display: inline-block;
+        padding: 10px;
+        border-radius: 50%;
+        height: 300px;
+        width: 250px;
+        align-items: center;
+        justify-content: center;
+    }
+    .image3 {
+        display: inline-block;
+        padding: 10px;
+        border-radius: 50%;
+        height: 300px;
+        width: 250px;
+        align-items: center ;
+        justify-content: center;
+    }
+
+h3,h4,h5 {
+        background-color: pink;
+        color: white;
+        height: 200px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-block-start: 0.8cm;
+        font-size: 50px;
+}
+
+.gif-container {
+        position: relative;
+        padding: 5px;
+        display:inline-block
+}
+
+.pic1 {
+        display: inline-block;
+        padding: 10px;
+        border-radius: 0%;
+        align-items: center;
+        justify-content: center;
+        width: 80px;
+        height: 80px;
+}
+
+.pic2 {
+        display: inline-block;
+        padding: 10px;
+        border-radius: 0%;
+        align-items: center;
+        justify-content: center;
+        width: 80px;
+        height: 80px;
+}
+
+.pic3 {
+        display: inline-block;
+        padding: 10px;
+        border-radius: 0%;
+        align-items: center;
+        justify-content: center;
+        width: 80px;
+        height: 80px;
+}
+
+.pic4 {
+        display: inline-block;
+        padding: 10px;
+        border-radius: 0%;
+        align-items: center;
+        justify-content: center;
+        width: 80px;
+        height: 80px;
+}
+
+.pic5 {
+        display: inline-block;
+        padding: 10px;
+        border-radius: 0%;
+        align-items: center;
+        justify-content: center;
+        width: 80px;
+        height: 80px;
+}
+
+.colour {
+        margin-right: 0px;
+        width: 20px;
+}
+
+p.green {
+        color: green;
+        display: inline-block;
+        margin-right: 100px;
+        width: 20px;
+}
+
+p.yellow {
+        color: yellowgreen;
+        display: inline-block;
+        margin-right: 100px;
+        width: 20px;
+    
+}
+
+p.orange {
+        color: orange;
+        display: inline-block;
+        margin-right: 100px;
+        width: 20px;
+}
+
+p.pink {
+        color: rgb(207, 66, 89);
+        display: inline-block;
+        margin-right: 100px;
+        width: 20px;
+}
+
+p.blue {
+        color: rgb(4, 4, 141);
+        display: inline-block;
+        margin-right: 0px;
+        width: 20px;
+}
+
+.drinks {
+        margin-right: 0px;
+        width: 20px;
+}
+
+p.rum {
+        display: inline-block;
+        margin-right: 100px;
+        width: 20px;
+}
+
+p.sexonthebeach {
+        display: inline-block;
+        margin-right: 150px;
+        width: 20px;
+    
+        white-space: nowrap
+}
+
+p.lilt {
+        display: inline-block;
+        margin-right: 100px;
+        width: 20px;
+}
+
+p.applejuice {
+        display: inline-block;
+        margin-right: 100px;
+        width: 20px;
+}
+
+p.water {
+        display: inline-block;
+        margin-right: 0px;
+        width: 20px;
+}
